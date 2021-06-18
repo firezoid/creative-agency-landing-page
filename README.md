@@ -13,6 +13,9 @@ A simple creative agency landing page
 2. Css
 ```
 
+### Template By:
+* **shufflehound.com**
+
 ### Authors
 * **Firezoid** - [View](github.com/firezoid)
 
