@@ -11,6 +11,7 @@ A simple creative agency landing page
 ```js
 1. Html
 2. Css
+3. Js
 ```
 
 ### Template By:
